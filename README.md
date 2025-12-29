@@ -57,3 +57,7 @@ Project Files
 - Full academic report: `docs/CVAI_final_assessment.pdf`
 - Analysis notebooks: `analysis/`
 - Results and visualizations: `results/`
+
+Dashboard :
+<img width="720" height="577" alt="image" src="https://github.com/user-attachments/assets/bc307b71-6404-4201-9216-2b6225d4cc01" />
+
